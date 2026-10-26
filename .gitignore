@@ -1,0 +1,21 @@
+# Build outputs
+app/build/
+app/src/main/obj/
+*.o
+*.o.d
+*.dex
+*.ap_
+
+# IDE
+.idea/
+*.iml
+local.properties
+.gradle/
+
+# Signed APK
+*.apk
+*.aab
+
+# Keys
+*.jks
+*.keystore
